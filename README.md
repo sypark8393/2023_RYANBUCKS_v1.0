@@ -11,16 +11,15 @@
 + `JDK 11`
 + **IDE**: eclipse (2020-09)
 + **DB**: Oracle Database 11g Express Edition
-+ SQL Developer
 + **WAS**: Apache Tomcat 9.0.80
 
 ### 🧑‍🤝‍🧑 팀원 소개
 + 팀장 이승현: LOGIN, My Ryanbucks-개인정보 관리
 + 팀원 김태안: EVENT, NOTICE, My Ryanbucks-주문 내역
-+ 팀원 박수연: MENU(상세보기), My Ryanbucks-리뷰 관리, 장바구니, 주문 | DB 설계, 샘플 데이터 생성
++ 팀원 박수연: MENU, My Ryanbucks-리뷰 관리, 장바구니, 주문 | DB 설계, 샘플 데이터 생성
 + 팀원 윤찬혁: INFO | 샘플 데이터 생성, 통합 테스트
-+ 팀원 정다소: 장바구니
-+ 팀원 정영은: COFFEE, MENU(목록), My Ryanbucks-리뷰 관리
++ 팀원 정다소: 메인, 헤더&푸터, 장바구니
++ 팀원 정영은: COFFEE, MENU, My Ryanbucks-리뷰 관리
 
 <br>
 
@@ -58,3 +57,56 @@
 ## 💾 ERD
 ![ERD+20231106](https://github.com/sypark8393/2023_RYANBUCKS_v1.0/assets/161054595/bc0f2a1e-4a4f-4af1-9daa-98ac925b0b97)
 
+<br>
+
+## 📁 디렉터리 구조
++ RYANBUCKS_v1.0
+  + WebContent
+    + WEB-INF
+    + cart
+    + coffee
+    + common
+      + css
+      + img
+    + event
+    + info
+    + login
+    + menu
+    + my_ryanbucks
+    + non_co_img
+      + coffee
+      + event
+      + main
+      + menu
+      + review
+      + sub_title
+    + notice
+    + review
+  + src
+    + address
+    + cart
+    + category
+    + common
+    + event
+    + event_img
+    + member
+    + menu
+    + menu_img
+    + menu_option
+    + notice
+    + order_detail
+    + order_total
+    + review
+    + review_board
+    + utils
+
+<br>
+
+## 🎞️ 시연 영상
++ 비회원 서비스
+  + [2023_RYANBUCKS_v1.0 │ [비회원 서비스] 시연 영상](https://youtu.be/d3pC6y6j6_c)
++ 회원 서비스
+  + [2023_RYANBUCKS_v1.0 │ [회원 서비스] 시연 영상1](https://youtu.be/hoD2TtR9V4A)
+  + [2023_RYANBUCKS_v1.0 │ [회원 서비스] 시연 영상2](https://youtu.be/YsJhfwPk3ZY)
+  + [2023_RYANBUCKS_v1.0 │ [회원 서비스] 시연 영상3](https://youtu.be/8-PkNt1BhTo)
+  + [2023_RYANBUCKS_v1.0 │ [회원 서비스] 시연 영상4](https://youtu.be/joCCo77utbU)
