@@ -55,7 +55,8 @@
 <br>
 
 ## 💾 ERD
-![ERD+20231106](https://github.com/sypark8393/2023_RYANBUCKS_v1.0/assets/161054595/bc0f2a1e-4a4f-4af1-9daa-98ac925b0b97)
+![ERD+20231106](https://github.com/sypark8393/2023_RYANBUCKS_v1.0/assets/161054595/f875bc82-910a-4b4e-8d4e-261003af073a)
+
 
 <br>
 
